@@ -1,0 +1,14 @@
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\BussinessEntity.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\BussinessEntity.pdb
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

@@ -1,0 +1,5 @@
+C:\Users\Milano\source\repos\RegistrationBook\BussinessEntity\bin\Debug\BussinessEntity.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessEntity\bin\Debug\BussinessEntity.pdb
+C:\Users\Milano\source\repos\RegistrationBook\BussinessEntity\obj\Debug\BussinessEntity.csproj.CoreCompileInputs.cache
+C:\Users\Milano\source\repos\RegistrationBook\BussinessEntity\obj\Debug\BussinessEntity.dll
+C:\Users\Milano\source\repos\RegistrationBook\BussinessEntity\obj\Debug\BussinessEntity.pdb

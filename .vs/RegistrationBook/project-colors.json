@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4790cbd9-fbc8-460a-8519-9310c07b091d": {
+      "ProjectGuid": "4790cbd9-fbc8-460a-8519-9310c07b091d",
+      "DisplayName": "RegistrationBook",
+      "ColorIndex": 0
+    },
+    "00b16c5e-e0e1-4b0b-b692-8b22907d7e82": {
+      "ProjectGuid": "00b16c5e-e0e1-4b0b-b692-8b22907d7e82",
+      "DisplayName": "BussinessEntity",
+      "ColorIndex": 1
+    },
+    "d8cde95b-84cc-499d-8d99-cab30862c18b": {
+      "ProjectGuid": "d8cde95b-84cc-499d-8d99-cab30862c18b",
+      "DisplayName": "BussinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "7b2a96f9-fb7f-4d6a-a154-eff62c58153f": {
+      "ProjectGuid": "7b2a96f9-fb7f-4d6a-a154-eff62c58153f",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

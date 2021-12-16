@@ -1,0 +1,16 @@
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\BussinessEntity.dll
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\BussinessEntity.pdb
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InitialCreate.resources
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Milano\source\repos\RegistrationBook\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
